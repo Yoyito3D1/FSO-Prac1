@@ -1,0 +1,17 @@
+Els fitxers [prova4/prova/hola1.txt || prova3/prova/hola1.txt]  es 60.00% semblant
+Els fitxers [prova4/prova2/hola1.txt || prova3/prova/hola1.txt]  es 66.00% semblant
+Els fitxers [prova4/prova/hola1.txt || prova3/prova/prova1/hola1.txt]  es 60.00% semblant
+Els fitxers [prova4/prova/hola2.txt || prova3/prova/prova1/hola2.txt]  es 100.00% semblant
+Els fitxers [prova4/prova/hola5.txt || prova3/prova/prova1/hola5.txt]  es 0% semblant
+Els fitxers [prova4/prova/hola.txt || prova3/prova/prova1/hola.txt]  es 100.00% semblant
+Els fitxers [prova4/prova2/hola1.txt || prova3/prova/prova1/hola1.txt]  es 66.00% semblant
+Els fitxers [prova4/prova2/hola2.txt || prova3/prova/prova1/hola2.txt]  es 100.00% semblant
+Els fitxers [prova4/prova2/hola.txt || prova3/prova/prova1/hola.txt]  es 90.00% semblant
+Els fitxers [prova4/prova/hola1.txt || prova3/prova2/hola1.txt]  es 40.00% semblant
+Els fitxers [prova4/prova/hola2.txt || prova3/prova2/hola2.txt]  es 100.00% semblant
+Els fitxers [prova4/prova/hola.txt || prova3/prova2/hola.txt]  es 90.00% semblant
+Els fitxers [prova4/prova2/hola1.txt || prova3/prova2/hola1.txt]  es 100.00% semblant
+Els fitxers [prova4/prova2/hola2.txt || prova3/prova2/hola2.txt]  es 100.00% semblant
+Els fitxers [prova4/prova2/hola3.txt || prova3/prova2/hola3.txt]  es 100.00% semblant
+Els fitxers [prova4/prova2/hola.txt || prova3/prova2/hola.txt]  es 100.00% semblant
+Els fitxers [prova4/prova/ola.txt || prova3/prova2/prova6/ola.txt]  es 75.00% semblant

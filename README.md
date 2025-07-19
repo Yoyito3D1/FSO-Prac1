@@ -1,1 +1,2 @@
-# FSO-Prac1
+# FSO-prac1
+Pràctica 1 FSO
